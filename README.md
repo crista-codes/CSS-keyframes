@@ -1,2 +1,2 @@
-# CSS-keyframes
-CSS @keyframes and animation Properties Work
+Applied visual design 
+Learning with free code camp 
